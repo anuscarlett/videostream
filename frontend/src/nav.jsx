@@ -88,7 +88,7 @@ const Navbar = ({darkMode,setDarkMode}) => {
             <Wrapper>
              <Logo>
                 <Img src={cipher}/>
-                CipherSchool
+                VIdeostream
              </Logo> 
              <Link to="/" style={{textDecoration:"none",color:"inherit"}}>
              <Item>
